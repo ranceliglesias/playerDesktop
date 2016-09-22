@@ -1,2 +1,2 @@
-# Scotch Player Demo
-Designed with React 
+# Player Desktop
+Designed with React
